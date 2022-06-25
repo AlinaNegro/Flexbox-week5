@@ -1,2 +1,2 @@
 # Flexbox-week5
-Flexbox, домашнее задание
+Flexbox-project, домашнее задание 
